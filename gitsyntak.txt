@@ -1,0 +1,5 @@
+alias graph="git log --all --decorate --oneline --graph"
+git remote -v = untuk melihat remote yang akan dirubah
+git add . = "untuk menstaging"
+git commit -m = untuk memberikan commit terhadap file
+git remote set-url origin = untuk merubah url remote 
