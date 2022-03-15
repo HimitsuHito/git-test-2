@@ -4,3 +4,5 @@ git add . = "untuk menstaging"
 git commit -m = untuk memberikan commit terhadap file
 git remote set-url origin = untuk merubah url remote 
 git fetch = "berfungsi untuk mengecek apakah ada yang file yang sama atau tidak"
+git clone = berfungsi untuk mengclone file. dengan cara mengambil code
+git clone (link yang akan diclone)
